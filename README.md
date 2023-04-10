@@ -1,8 +1,10 @@
 # Breast_Cancer_Detection_From_Scratch
 
-In the context of an academic project in data science (Machine learning).
+* In the context of an academic project in data science (Machine learning).
 
 ![Screenshot](home.png)
+
+* [Project Report](https://drive.google.com/file/d/1x0yEiS5kF-obl2P6bD18dk3bSvmMJiMH/view?usp=sharing)
 
 It's about Breast cancer detection using : 
 
