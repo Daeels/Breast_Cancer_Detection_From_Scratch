@@ -17,7 +17,7 @@ This project uses the [Wisconsin Breast Cancer dataset](https://archive.ics.uci.
 
 ![Screenshot](home.png)
 
-It's about Breast cancer detection using : 
+# Breast cancer detection using : 
 
 ## Gradient Descente from scratch : 
 
@@ -35,4 +35,7 @@ It's about Breast cancer detection using :
 
 
 [SGDClassifier_Breast_cancer.py](https://github.com/Daeels/Breast_Cancer_Detection_From_Scratch/blob/main/SGDClassifier_Breast_cancer.py)
+
+## Contact 📧
+If you have any questions or concerns, please feel free to contact me at [ilyasirgui@gmail.com](mailto:ilyasirgui@gmail.com).
 
